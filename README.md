@@ -1,7 +1,5 @@
 # Spotify_Song_Reccomender
 
-A quantitative study comprising Twitter discussions and thematic analysis for COVID-19 vaccines <br>
-Paper published at: https://infodemiology.jmir.org/2022/1/e33909
 
 ## TABLE OF CONTENTS
 
