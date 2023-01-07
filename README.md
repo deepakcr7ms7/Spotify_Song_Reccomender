@@ -83,9 +83,8 @@ One of the biggest problems with this model is that there are almost no metrics 
 #
 Comparison
 <p float="left" >
-  <img src="https://github.com/deepakcr7ms7/Spotify_Song_Reccomender/blob/main/images/SR_result1.jpg" alt="Preprocessing" height="500"width="500"  />
- 
-  <img src="https://github.com/deepakcr7ms7/Spotify_Song_Reccomender/blob/main/images/SR_result2.jpg" alt="Augmented Images" height="500" width="500" />
+  <img src="https://github.com/deepakcr7ms7/Spotify_Song_Reccomender/blob/main/images/SR_result1.jpg" alt="Preprocessing" height="500"width="400"  />
+  <img src="https://github.com/deepakcr7ms7/Spotify_Song_Reccomender/blob/main/images/SR_result2.jpg" alt="Augmented Images" height="500" width="400" />
 </p>
 <br> Top 20 songs in Mom’s playlist (left) and the recommended result by two recommendation algorithms (right). Here, the two methods are the content-based filtering approach and the clustering method using K-nearest neighbors. 
 
